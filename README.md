@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on open-source projects and innovative startups.
 
-📫 How to reach me: manish770404@gmail.com
+📫 How to reach me: mkjaiswal770408@gmail.com
 
 😄 Pronouns: He/Him
 
