@@ -1,7 +1,7 @@
 👋 Hi, I’m Manish (@manish770404)
 🔹 I'm a passionate developer working on MERN stack applications and exploring new technologies.M
 
-My Portfolio-manishjaiswal.vercel.app
+My Portfolio :https://manishjaiswal.vercel.app
 
 🚀 About Me
 👀 I’m interested in Web Development, Machine Learning, and Open Source Projects.
